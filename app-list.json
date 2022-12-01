@@ -1,0 +1,23 @@
+{
+    "username": "Single Spa",
+    "data": [
+        {
+            "id": 1,
+            "Description": "Placeholder Bear",
+            "Link": "https://www.adoptable.com/public/apis/pet_list.html",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 2,
+            "Description": "Placeholder Kitten",
+            "Link": "https://www.cataas.com",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 3,
+            "Description": "Random Foxes",
+            "Link": "https://urlhaus-api.ch/",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        }
+    ]
+}
